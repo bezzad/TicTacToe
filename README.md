@@ -9,7 +9,7 @@ Tic Tac Toe puzzle application, designed in C# WinForm
 --------------------------------
 ### How To Use The Examples
 
-8Queen Puzzle:
+Tic Tac Toe Puzzle:
 
 ![Capture](https://raw.githubusercontent.com/Behzadkhosravifar/TicTacToe/master/img/screenshut.PNG)
 
